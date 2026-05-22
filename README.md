@@ -4,7 +4,7 @@
 
 Análise exploratória de dados com 17.502 registros de acidentes em rodovias federais e 1.048 radares ativos, cruzando dados da PRF e da ANTT para identificar zonas críticas, avaliar o impacto dos radares e sugerir realocações estratégicas.
 
-🔗 🔗 **[Acesse o relatório completo](https://lebonaparte.github.io/analisePRF/relatorio_gestao_rodovias.html)**
+🔗 **[Acesse o relatório completo](https://lebonaparte.github.io/analisePRF/relatorio_gestao_rodovias.html)**
 
 ---
 
